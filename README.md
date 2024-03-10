@@ -10,7 +10,7 @@ My major Technical Skills include - Web Dev, Django, React and Databases. Curren
 My core Value skills would be Perseverance, Resilience, Hardwork and Creativity. Throw me in any situation with some major level of complexity, and sooner or later I'll end up solving the problem.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhik2207) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhik2207) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhikgupta2207) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhik2207) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhik2207)
 
 # 💻 Tech Stack:
