@@ -62,14 +62,6 @@
 
 ###
 
-<h1 align="center">🤝 Contributions!</h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/abhik2207/abhik2207/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="center">📊 Stats!</h1>
 
 ###
