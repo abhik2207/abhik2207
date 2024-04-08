@@ -102,33 +102,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">👀 Profile views!</h1>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abhik2207/count.svg?"  />
-</div>
-
-###
-
-<h1 align="center">🎵 My taste!</h1>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/4qft7m1hny5nxdt9tuy9hy00r">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=4qft7m1hny5nxdt9tuy9hy00r&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="500" src="https://abhik2207.github.io/PORTFOLIO/abhik-1.jpg"  />
-</div>
-
-###
