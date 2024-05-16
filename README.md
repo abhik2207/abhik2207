@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhik2207.abhik2207" />
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=abhik2207.visitor-badge)
 
 <h1 align="left">😎 About Me!</h1>
 
